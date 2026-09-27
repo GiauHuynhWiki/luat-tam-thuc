@@ -1,0 +1,39 @@
+{
+ "page": 372,
+ "source": "tools/ocr_fix.py (Vision vi-VT .accurate, 300 DPI)",
+ "fixes": [
+  {
+   "kind": "dropcap",
+   "cap": [
+    0.1197,
+    0.1597,
+    0.0716,
+    0.0397
+   ],
+   "replace": [
+    0.1097,
+    0.1517,
+    0.8603,
+    0.0583
+   ],
+   "lines": [
+    {
+     "text": "Xuyên suốt cuốn sách này, chúng ta đã cùng trải qua cuộc",
+     "conf": 1,
+     "x": 0.1768,
+     "y": 0.1586,
+     "w": 0.7727,
+     "h": 0.0189
+    },
+    {
+     "text": "hành trình khám phá những khía cạnh và quy luật vận hành",
+     "conf": 1,
+     "x": 0.1768,
+     "y": 0.1855,
+     "w": 0.7727,
+     "h": 0.0185
+    }
+   ]
+  }
+ ]
+}

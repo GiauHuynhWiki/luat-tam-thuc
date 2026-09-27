@@ -1,0 +1,25 @@
+{
+ "page": 154,
+ "source": "tools/ocr_fix.py (Vision vi-VT .accurate, 300 DPI)",
+ "fixes": [
+  {
+   "kind": "block",
+   "replace": [
+    0.09,
+    0.345,
+    0.83,
+    0.035
+   ],
+   "lines": [
+    {
+     "text": "không dùng hết nên sẽ tích lại thành mỡ.",
+     "conf": 1,
+     "x": 0.1018,
+     "y": 0.3532,
+     "w": 0.5096,
+     "h": 0.0196
+    }
+   ]
+  }
+ ]
+}

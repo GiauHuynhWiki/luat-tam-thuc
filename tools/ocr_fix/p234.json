@@ -1,0 +1,39 @@
+{
+ "page": 234,
+ "source": "tools/ocr_fix.py (Vision vi-VT .accurate, 300 DPI)",
+ "fixes": [
+  {
+   "kind": "dropcap",
+   "cap": [
+    0.1099,
+    0.2037,
+    0.0643,
+    0.0484
+   ],
+   "replace": [
+    0.0999,
+    0.1957,
+    0.8701,
+    0.0571
+   ],
+   "lines": [
+    {
+     "text": "Qua các chương vừa rồi, chúng ta đã tìm hiểu về những mẫu",
+     "conf": 1,
+     "x": 0.1754,
+     "y": 0.2003,
+     "w": 0.7742,
+     "h": 0.0219
+    },
+    {
+     "text": "hình vận hành và phát triển của Vũ Trụ qua nhiều khía",
+     "conf": 1,
+     "x": 0.1754,
+     "y": 0.2283,
+     "w": 0.7742,
+     "h": 0.0185
+    }
+   ]
+  }
+ ]
+}

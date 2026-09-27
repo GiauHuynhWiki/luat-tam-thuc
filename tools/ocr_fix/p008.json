@@ -1,0 +1,39 @@
+{
+ "page": 8,
+ "source": "tools/ocr_fix.py (Vision vi-VT .accurate, 300 DPI)",
+ "fixes": [
+  {
+   "kind": "dropcap",
+   "cap": [
+    0.0939,
+    0.16,
+    0.0478,
+    0.0391
+   ],
+   "replace": [
+    0.0839,
+    0.152,
+    0.8861,
+    0.0573
+   ],
+   "lines": [
+    {
+     "text": "Bí mật của Vũ Trụ, hay nói chính xác hơn là bản chất của sự",
+     "conf": 1,
+     "x": 0.1453,
+     "y": 0.1581,
+     "w": 0.8044,
+     "h": 0.0192
+    },
+    {
+     "text": "sống, sự sáng tạo, là thứ con người hiện đại vẫn đang tìm",
+     "conf": 1,
+     "x": 0.1453,
+     "y": 0.1818,
+     "w": 0.8044,
+     "h": 0.0215
+    }
+   ]
+  }
+ ]
+}

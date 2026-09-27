@@ -1,0 +1,39 @@
+{
+ "page": 96,
+ "source": "tools/ocr_fix.py (Vision vi-VT .accurate, 300 DPI)",
+ "fixes": [
+  {
+   "kind": "dropcap",
+   "cap": [
+    0.0961,
+    0.1791,
+    0.0501,
+    0.0387
+   ],
+   "replace": [
+    0.0861,
+    0.1711,
+    0.8839,
+    0.0572
+   ],
+   "lines": [
+    {
+     "text": "Trong phần đầu tiên của cuốn sách, chúng ta đã cùng tìm hiểu",
+     "conf": 1,
+     "x": 0.1468,
+     "y": 0.1776,
+     "w": 0.8031,
+     "h": 0.0192
+    },
+    {
+     "text": "về các mô hình vận hành và phát triển cơ bản nhất của Vũ",
+     "conf": 1,
+     "x": 0.1468,
+     "y": 0.2032,
+     "w": 0.8031,
+     "h": 0.0192
+    }
+   ]
+  }
+ ]
+}

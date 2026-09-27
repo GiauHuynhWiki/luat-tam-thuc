@@ -1,0 +1,29 @@
+# Search keywords for tools/verify_search.py where the concept's full name is a description rather than
+# a search term. row = line number in index/khai-niem.tsv; each column is one query, words taken from the
+# concept's name; "a + b" = both in the same paragraph.
+33	1 2 4 8 7 5	so linh thieng
+38	tu truong + trai dat	tu truong
+98	truong dien tu + tim
+112	tho + bung
+116	nam vi
+117	cam xuc + tang phu	tang phu
+118	am duong + co the
+123	ti le + duong chat
+128	may tinh + tam tri	may tinh
+132	dieu kien hoa
+138	da quy	tinh the
+157	tam bat bien	van bien
+167	bay luat	luat vu tru
+179	nhan qua + chu ky
+188	bat binh dang	giau ngheo
+200	tap trung + giai phap
+208	60 72 nam	72 nam
+238	can can + anubis	ma at
+252	bai hoc + cam xuc
+263	thu nhap + lao dong
+270	nghe nghiep + ly tuong	nghe nghiep
+275	phan con	phan nguoi
+281	thap duoc	tu thap
+51	canh gioi + rung dong
+95	con mat thu ba	thuong dan dien
+282	cach mang cong nghiep

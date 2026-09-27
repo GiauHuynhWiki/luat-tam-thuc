@@ -1,0 +1,39 @@
+{
+ "page": 422,
+ "source": "tools/ocr_fix.py (Vision vi-VT .accurate, 300 DPI)",
+ "fixes": [
+  {
+   "kind": "dropcap",
+   "cap": [
+    0.1197,
+    0.158,
+    0.0566,
+    0.0402
+   ],
+   "replace": [
+    0.1097,
+    0.15,
+    0.8603,
+    0.0579
+   ],
+   "lines": [
+    {
+     "text": "Cuộc hành trình dài đến đâu rồi cũng phải có hồi kết. Để kết",
+     "conf": 1,
+     "x": 0.1781,
+     "y": 0.1564,
+     "w": 0.7714,
+     "h": 0.0193
+    },
+    {
+     "text": "thúc cuốn sách này, tôi xin chia sẻ những điều mà bạn cần",
+     "conf": 1,
+     "x": 0.1781,
+     "y": 0.1826,
+     "w": 0.7714,
+     "h": 0.0193
+    }
+   ]
+  }
+ ]
+}

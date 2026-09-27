@@ -1,0 +1,39 @@
+{
+ "page": 164,
+ "source": "tools/ocr_fix.py (Vision vi-VT .accurate, 300 DPI)",
+ "fixes": [
+  {
+   "kind": "dropcap",
+   "cap": [
+    0.1029,
+    0.1254,
+    0.0563,
+    0.0403
+   ],
+   "replace": [
+    0.0929,
+    0.1174,
+    0.8771,
+    0.0581
+   ],
+   "lines": [
+    {
+     "text": "Con người là một cỗ máy sinh học vô cùng phức tạp với nhiều",
+     "conf": 1,
+     "x": 0.1616,
+     "y": 0.1224,
+     "w": 0.7882,
+     "h": 0.0215
+    },
+    {
+     "text": "hệ thống khác nhau cùng hoạt động trên trường năng lượng",
+     "conf": 1,
+     "x": 0.1616,
+     "y": 0.151,
+     "w": 0.7882,
+     "h": 0.0185
+    }
+   ]
+  }
+ ]
+}

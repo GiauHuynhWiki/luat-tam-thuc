@@ -1,0 +1,39 @@
+{
+ "page": 50,
+ "source": "tools/ocr_fix.py (Vision vi-VT .accurate, 300 DPI)",
+ "fixes": [
+  {
+   "kind": "dropcap",
+   "cap": [
+    0.0949,
+    0.1724,
+    0.0644,
+    0.0484
+   ],
+   "replace": [
+    0.0849,
+    0.1644,
+    0.8851,
+    0.0576
+   ],
+   "lines": [
+    {
+     "text": "Qua chương đầu tiên, chúng ta đã cùng bàn luận về mô hình",
+     "conf": 1,
+     "x": 0.1605,
+     "y": 0.1712,
+     "w": 0.7894,
+     "h": 0.0188
+    },
+    {
+     "text": "Vũ Trụ được tạo ra, mở rộng và phát triển từ hư vô. Đây là",
+     "conf": 1,
+     "x": 0.1605,
+     "y": 0.1975,
+     "w": 0.7894,
+     "h": 0.0184
+    }
+   ]
+  }
+ ]
+}

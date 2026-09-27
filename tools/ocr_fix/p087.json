@@ -1,0 +1,33 @@
+{
+ "page": 87,
+ "source": "tools/ocr_fix.py (Vision vi-VT .accurate, 300 DPI)",
+ "fixes": [
+  {
+   "kind": "block",
+   "replace": [
+    0.09,
+    0.872,
+    0.83,
+    0.06
+   ],
+   "lines": [
+    {
+     "text": "1. Dựa theo công thức Bán kính Schwarzschild: rs = 2MG/c. Trong đó, M là khối",
+     "conf": 1,
+     "x": 0.0992,
+     "y": 0.8885,
+     "w": 0.7882,
+     "h": 0.0189
+    },
+    {
+     "text": "lượng vật thể, G là hằng số hấp dẫn còn c là vận tốc ánh sáng.",
+     "conf": 1,
+     "x": 0.1004,
+     "y": 0.9051,
+     "w": 0.589,
+     "h": 0.0183
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "page": 302,
+ "source": "tools/ocr_fix.py (Vision vi-VT .accurate, 300 DPI)",
+ "fixes": [
+  {
+   "kind": "dropcap",
+   "cap": [
+    0.114,
+    0.1623,
+    0.069,
+    0.0389
+   ],
+   "replace": [
+    0.104,
+    0.1543,
+    0.866,
+    0.0578
+   ],
+   "lines": [
+    {
+     "text": "Hầu hết chúng ta đều từng băn khoăn với câu hỏi: \"Chết là",
+     "conf": 1,
+     "x": 0.1836,
+     "y": 0.1612,
+     "w": 0.766,
+     "h": 0.0189
+    },
+    {
+     "text": "hết hay vẫn còn tồn tại một sự sống khác ở thế giới bên kia?\"",
+     "conf": 1,
+     "x": 0.1836,
+     "y": 0.185,
+     "w": 0.766,
+     "h": 0.0211
+    }
+   ]
+  }
+ ]
+}

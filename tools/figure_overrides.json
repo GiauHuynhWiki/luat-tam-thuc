@@ -1,0 +1,7 @@
+{
+  "_note": "Manual fixes on top of automatic detection. exclude: pages whose detections are dropped (scan site's branding/ads, false positives). boxes: page -> boxes [x, y, w, h] (0..1, top-left origin) that replace the detected ones. Rerun: python3 tools/export_figures.py",
+  "exclude": [2, 3, 48, 112],
+  "boxes": {
+    "285": [[0.024, 0.0786, 0.4485, 0.3047]]
+  }
+}

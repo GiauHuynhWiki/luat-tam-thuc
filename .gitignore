@@ -1,0 +1,18 @@
+# Nội dung sách (còn bản quyền): không đưa vào git. Tạo lại trên máy bằng: bash tools/setup.sh
+*.pdf
+book/*
+!book/_kiem-tra.md
+hinh/
+.cache/
+
+# File chạy biên dịch từ tools/*.swift (setup.sh tự biên dịch)
+tools/render_pages
+tools/ocr_pages
+tools/crop_figures
+tools/verify_ink
+tools/ocr_region
+__pycache__/
+
+# Lịch sử git cũ (có chứa PDF và toàn văn), chỉ giữ trên máy
+.git-cu/
+.DS_Store

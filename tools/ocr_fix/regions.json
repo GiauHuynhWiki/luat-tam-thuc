@@ -1,0 +1,15 @@
+{
+ "_doc": "Regions re-OCR'd by tools/ocr_fix.py (300 DPI render + tools/ocr_region). dropcap: the two lines beside a chapter's drop cap, found automatically inside `search`; cap_keep < 1 when a stroke of the cap touches the next line. block: every line inside `box`, OCR'd `scale` times enlarged. Boxes are normalized [x, y, w, h], top-left origin. See book/_kiem-tra.md.",
+ "fixes": [
+  {"page": 8,   "kind": "dropcap"},
+  {"page": 50,  "kind": "dropcap"},
+  {"page": 96,  "kind": "dropcap"},
+  {"page": 164, "kind": "dropcap"},
+  {"page": 234, "kind": "dropcap"},
+  {"page": 302, "kind": "dropcap"},
+  {"page": 372, "kind": "dropcap", "cap_keep": 0.8},
+  {"page": 422, "kind": "dropcap"},
+  {"page": 87,  "kind": "block", "box": [0.09, 0.872, 0.83, 0.06], "scale": 1, "note": "footnote"},
+  {"page": 154, "kind": "block", "box": [0.09, 0.345, 0.83, 0.035], "scale": 2, "note": "last line above the figure"}
+ ]
+}
